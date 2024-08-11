@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prajjukorban@gmail.com**
 
-- ⚡ Fun fact **I learn something new daily**
+- ⚡ Fun fact : **I learn something new daily**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
