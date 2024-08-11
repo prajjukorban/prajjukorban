@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">A passionate Fullstack developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Fullstack developer and Data Analyst from India 🇮🇳</h3>
 
 <img src="prajjukorban@gmail.com.png"  >
 
