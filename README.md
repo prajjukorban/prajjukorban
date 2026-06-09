@@ -1,7 +1,5 @@
  <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">A passionate Fullstack developer and Data Analyst from India 🇮🇳</h3>
-
-<img src="prajjukorban@gmail.com.png"  >
+<h3 align="center">B.Tech CSE Student | Building Intelligent Systems with AI & Machine Learning</h3>
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
@@ -9,11 +7,11 @@
 - 🌱 I’m currently learning **Deep Learning**
 - 👨‍💻 All of my projects are available at [https://prajwalkorbanportfolio.netlify.app/](https://prajwalkorbanportfolio.netlify.app/)
 
-- 💬 Ask me about ** phyton, machine learning, deep learning, ai/ml**
+- 💬 Ask me about **Phyton, Machine Learning, Deep Learning, AI/ML**
 
 - 📫 How to reach me **prajjukorban@gmail.com**
 
-- ⚡ Fun fact : **I learn something new daily**
+- ⚡ Fun fact : **If I don't know it today, I'll know it tomorrow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
