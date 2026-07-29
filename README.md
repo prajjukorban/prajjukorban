@@ -4,14 +4,21 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🌱 I’m currently learning **Deep Learning**
-- 👨‍💻 All of my projects are available at [https://prajwalkorbanportfolio.netlify.app/](https://prajwalkorbanportfolio.netlify.app/)
-
-- 💬 Ask me about **Phyton, Machine Learning, Deep Learning, AI/ML**
-
-- 📫 How to reach me **prajjukorban@gmail.com**
-
-- ⚡ Fun fact : **If I don't know it today, I'll know it tomorrow**
+I build full, working software — not just coursework exercises. My focus is split between **applied machine learning** and **full-stack development**.
+ 
+- 🌐 **Full-stack:** Shipped a live SaaS product solo — auth, payments, real-time editor, deployment
+- 🧠 **ML:** Comfortable across the workflow — data preprocessing, model training, evaluation, tuning (Python, scikit-learn, pandas)
+- ⚡ **How I build:** AI-assisted tools (Antigravity, etc.) for fast frontend scaffolding; hand-written code for backend logic, data pipelines, and ML — where understanding actually matters
+- 🌱 Currently deepening **Deep Learning** fundamentals
+- 💬 Ask me about **Python, Machine Learning, Full-Stack Development**
+- 📫 Reach me: **prajjukorban@gmail.com**
+---
+ 
+### Currently Building
+ 
+**[PortfolioForge](https://portfolioforge.online)** — a web app that lets students generate and deploy portfolio websites from a guided builder.
+`Firebase Auth` · `Firestore` · `Razorpay` · `Live auto-saving editor` · `6 templates, 1 shared schema`
+ <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
